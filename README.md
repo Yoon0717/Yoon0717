@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
 # Han Seung Yoon
 Hi there! Welcome to my Github!<br>
 I am a student studying computer science.<br>
