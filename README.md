@@ -1,4 +1,6 @@
-### Hi there 👋
+# Han Seung Yoon
+Hi there! Welcome to my Github!<br>
+I am a student studying computer science.<br>
 
 <!--
 **Yoon0717/Yoon0717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
