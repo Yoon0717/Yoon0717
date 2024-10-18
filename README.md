@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Welcome%20to%20My%20GitHub%20&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-
+<!--
 # Han Seung Yoon
 Hi there! Welcome to my Github!<br>
 I am a student studying computer science.<br>
 
 ## 🎓 Education
 - Hankuk University of Foreign Studies, Computer Engineering, 4th Grade
-
+-->
 ## ✋ Github Stats  
 <table width="100%">
  <tr>
